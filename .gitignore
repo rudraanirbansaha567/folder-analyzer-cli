@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Mac/Linux specific
+*.DS_Store
+
+# Logs
+*.log
+
+# Output files
+*.csv
+*.txt
